@@ -5,10 +5,10 @@ Une  application  desktop    JAVA Swing   sous  le  thème  la   gestion  du  pa
 ### Screenshots :
 
 #### Home
-<img align="center" src="Icone/home.png" alt="Login interface">
+<img align="center" src="Icone/home.png" alt="Home interface">
 
 #### Géston de panne
-<img align="center" src="Icone/GPanne.jpg" alt="Register interface">
+<img align="center" src="Icone/GPanne.jpg" alt="Failure management interface">
 
 ## Tech
 - Java Swing
